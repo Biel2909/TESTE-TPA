@@ -1,3 +1,4 @@
+oi
 programa
 {
 	inclua biblioteca Util --> u
